@@ -77,5 +77,9 @@ Launch Jupyter Notebook to run the `.ipynb` files:
 
 ```bash
 jupyter notebook
+```
+## 🎯 Conclusion
 
-   
+This project demonstrates the potential of machine learning and deep learning in medical diagnostics. By combining advanced feature extraction techniques and state-of-the-art models, we provide a reliable system for detecting heart sound abnormalities with **up to 99% accuracy**. 🌟
+
+💡 With further data and refinement, this approach can revolutionize non-invasive cardiovascular disease diagnosis.
