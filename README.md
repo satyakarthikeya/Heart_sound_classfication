@@ -58,7 +58,7 @@ Our models achieved state-of-the-art performance:
 
 ## 🧑‍💻 Requirements
 
-- Python 3.x  
+- Python 3.11
 - Libraries: `tensorflow`, `xgboost`, `numpy`, `librosa`, `sklearn`, `pytorch`, etc.
 
 ---
